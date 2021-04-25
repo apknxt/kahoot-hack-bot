@@ -8,7 +8,9 @@ The program intercepts and pretends to be a kahoot client. After receiving quiz 
 
 ## Installation
 - Make a Kahoot Account if you don't have the Kahoot's ID and want to search for a Kahoot by name
-- Visit This Link for Step By Step Instructions to Hack Kahoot
+- Visit This Link for Step By Step Instructions to Hack Kahoot 
+- Goto Below Link
+- http://apknxt.com/kahoot-hack-auto-answer-bot
 
 ## Cons of this Hack
 Does not work when:
